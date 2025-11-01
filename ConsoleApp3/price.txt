@@ -1,0 +1,6 @@
+# Prislista - enkel att förstå. Format: Typ=PrisPerTimme
+# Kommentarer börjar med #
+Car=20
+MC=10
+# Första N minuter gratis:
+FreeMinutes=10

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleApp1/PragueParking.Data.csproj" Id="17b949e1-c15a-457d-b1ac-d2f128fcc081" />
+  <Project Path="ConsoleApp3/PragueParking.App.csproj" Id="910b7715-a9ce-485c-964d-1458e0e55736" />
+  <Project Path="PragueParking.Tests/PragueParking.Tests.csproj" />
+</Solution>

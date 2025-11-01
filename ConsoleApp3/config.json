@@ -1,0 +1,14 @@
+{
+  "TotalSpots": 100,
+  "SmallSpots": 10,
+  "MediumSpots": 80,
+  "LargeSpots": 10,
+  "VehicleTypes": [
+    "Car",
+    "MC"
+  ],
+  "MaxVehiclesPerSpot": {
+    "Car": 1,
+    "MC": 1
+  }
+}
