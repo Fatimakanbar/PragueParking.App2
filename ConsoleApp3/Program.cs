@@ -1,5 +1,4 @@
 ﻿
-
 using PragueParking.Data;
 using Spectre.Console;
 

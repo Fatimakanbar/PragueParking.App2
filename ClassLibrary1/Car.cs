@@ -1,4 +1,5 @@
-﻿// Project: PragueParking.Data
+﻿
+// Project: PragueParking.Data
 // Fil: Car.cs
 using System;
 using System.Reflection.Metadata;

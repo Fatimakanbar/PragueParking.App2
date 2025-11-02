@@ -15,8 +15,4 @@
     <PackageReference Include="xunit.assert" Version="2.9.3" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ConsoleApp1\PragueParking.Data.csproj" />
-  </ItemGroup>
-
 </Project>

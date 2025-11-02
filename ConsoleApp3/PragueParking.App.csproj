@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\PragueParking.Data.csproj" />
     <ProjectReference Include="..\ConsoleApp1\PragueParking.Data.csproj" />
   </ItemGroup>
 
